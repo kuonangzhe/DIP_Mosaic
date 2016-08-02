@@ -18,4 +18,4 @@ In demo, the main image was of 2048 * 3072 * 3
 The faces were originally of 250 * 250 * 3, while resized to 30 * 30 * 3, which you can decide yourself  
 There are several images of different zoom effect to show the picture  
 
-![](https://github.com/kuonangzhe/DIP_Mosaic/raw/master/test1.jpg
+![](https://github.com/kuonangzhe/DIP_Mosaic/blob/master/test1.jpg)
