@@ -1,18 +1,18 @@
 # DIP_Mosaic
 This is a small project for Aesthetic course  
 
-What you need:  
+##What you need:  
 
 A main image of large size, ex. 1920 * 1440 * 3  
-Dataset: Labeled Faces in the Wild Home from http://vis-www.cs.umass.edu/lfw/  
+Dataset: Labeled Faces in the Wild (from http://vis-www.cs.umass.edu/lfw/) 
 
-What I did:  
+##What I did:  
 
 The result used the faces from different people to present a mosaic effect  
 I did not use any algorithms to optimize the performance  
-Code runs fast--several minutes is enough  
+Code runs fast--several minutes is enough for preprocess and a few seconds for make Mosaic
 
-Demo:
+##Demo:
 
 In demo, the main image was of 2048 * 3072 * 3  
 The faces were originally of 250 * 250 * 3, while resized to 30 * 30 * 3, which you can decide yourself  
