@@ -11,7 +11,8 @@ for i = 1:length_p % find out the ':' for seperation. If found, write the path t
     if p(i) ~= ':'
         temp = [temp p(i)];
     else 
-        temp = [temp '/']; %在路径的最后加入 '\'
+        % add '/' to the end of the path
+        temp = [temp '/'];  
         path = [path ; temp];
         temp = [];
     end
