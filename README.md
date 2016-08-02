@@ -3,7 +3,7 @@ This is a small project for Aesthetic course
 
 What you need:
 
-A main image of large size, ex. 1920*1440*3
+A main image of large size, ex. 1920*1440*3 \\
 Dataset: Labeled Faces in the Wild Home from http://vis-www.cs.umass.edu/lfw/
 
 What I did:
